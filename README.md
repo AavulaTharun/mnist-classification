@@ -21,7 +21,7 @@ Build a CNN model.
 ### STEP 3:
 Compile and fit the model and then predict.
 
-## PROGRAM
+## PROGRAM:
 ~~~
 import numpy as np
 from tensorflow import keras
